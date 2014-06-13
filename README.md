@@ -4,12 +4,11 @@ Zeengrid is an easy responsive grid system. It isn't a framework and not a boile
 ##How to use it?
 The how to's coming soon :D
 
-##todo
+##Todos
 * Push and/or pull
+* Tidy up the code
 * Documentation
 * Webfont
 * Mixins
 * Example
 * Push into rubygems
-
-
